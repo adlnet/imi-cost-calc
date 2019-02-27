@@ -3,4 +3,4 @@ An EPSS tool for calculating training costs per learner for different types of I
 
 [Live Version](https://tadlp.github.io/imi-cost-calc/)
 
-[Usage Guide (PDF)] (https://tadlp.github.io/imi-cost-calc/CECC_EPSS_Usage.pdf)
+[Usage Guide (PDF)](https://tadlp.github.io/imi-cost-calc/CECC_EPSS_Usage.pdf)
